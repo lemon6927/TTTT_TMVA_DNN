@@ -1,0 +1,13 @@
+Final Training Summary: 09.Aug.2021
+
+Index , Parameters , Model , AUC , Accuracy , Loss 
+0.0 , dataset_6j_2017/1to3/optimized_params_6j_1to3.json , unsaved , 0.6656797816112832 , 0.8498463397289587 , 0.4022941995359369
+0.1 , dataset_6j_2017/1to3/optimized_params_6j_1to3.json , unsaved , 0.6644067762143758 , 0.8497806729484696 , 0.40258716156599117
+0.2 , dataset_6j_2017/1to3/optimized_params_6j_1to3.json , unsaved , 0.662771190731345 , 0.8498200730167631 , 0.40289492218185863
+0.3 , dataset_6j_2017/1to3/optimized_params_6j_1to3.json , unsaved , 0.6666211572317686 , 0.8499251398655456 , 0.40208369886219786
+0.4 , dataset_6j_2017/1to3/optimized_params_6j_1to3.json , dataset_6j_2017/1to3/final_model_6j_1to3.h5 , 0.6698201497933065 , 0.849964539933839 , 0.40136197982225563
+0.5 , dataset_6j_2017/1to3/optimized_params_6j_1to3.json , unsaved , 0.6685462594644302 , 0.84989887315335 , 0.40130814233274875
+0.6 , dataset_6j_2017/1to3/optimized_params_6j_1to3.json , unsaved , 0.6630837069236903 , 0.8499120065094478 , 0.40290064818916216
+0.7 , dataset_6j_2017/1to3/optimized_params_6j_1to3.json , unsaved , 0.6611480801525327 , 0.8498069396606652 , 0.4030918502704443
+0.8 , dataset_6j_2017/1to3/optimized_params_6j_1to3.json , unsaved , 0.6639798469041193 , 0.8498857397972521 , 0.4024753420366901
+0.9 , dataset_6j_2017/1to3/optimized_params_6j_1to3.json , unsaved , 0.6663949479338006 , 0.8499908066460347 , 0.4018370858930201

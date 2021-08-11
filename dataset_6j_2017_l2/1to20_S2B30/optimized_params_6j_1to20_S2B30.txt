@@ -1,0 +1,10 @@
+TTTT DNN Hyper Parameter Optimization Parameters 
+Static and Parameter Space stored in: dataset_6j_2017_l2/1to20_S2B30/config_6j_1to20_S2B30.json
+Optimized Parameters:
+    Hidden Layers: 2
+    Initial Nodes: 150
+    Batch Power: 10
+    Learning Rate: 0.0001
+    Node Pattern: static
+    Regulator: dropout
+    Activation Function: elu

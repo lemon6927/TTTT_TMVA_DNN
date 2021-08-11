@@ -1,0 +1,9 @@
+{
+  "hidden_layers": 1, 
+  "initial_nodes": 200, 
+  "activation_function": "elu", 
+  "learning_rate": 0.0001, 
+  "regulator": "none", 
+  "batch_power": 11, 
+  "node_pattern": "dynamic"
+}

@@ -1,0 +1,6 @@
+Hidden , Nodes  , Rate   , Batch  , Pattern  , Regulator     , Activation, AUC    
+2      , 156    , 0.001  , 512    , dynamic  , none          , softplus  , 0.73979
+3      , 127    , 0.001  , 256    , static   , dropout       , softplus  , 0.72068
+3      , 128    , 1e-05  , 1024   , dynamic  , none          , softplus  , 0.73855
+1      , 200    , 0.01   , 256    , dynamic  , none          , elu       , 0.73561
+1      , 197    , 0.01   , 256    , static   , none          , softplus  , 0.73768

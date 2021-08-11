@@ -1,0 +1,13 @@
+Final Training Summary: 30.Jul.2021
+
+Index , Parameters , Model , AUC , Accuracy , Loss 
+0.0 , dataset_6j_2017_l2/1to20_S2B5/optimized_params_6j_1to20_S2B5.json , unsaved , 0.737611709093799 , 0.8354838239367829 , 0.40230883453323474
+0.1 , dataset_6j_2017_l2/1to20_S2B5/optimized_params_6j_1to20_S2B5.json , unsaved , 0.7333586338045563 , 0.8358628934668825 , 0.40466206733127974
+0.2 , dataset_6j_2017_l2/1to20_S2B5/optimized_params_6j_1to20_S2B5.json , unsaved , 0.7363272393511625 , 0.8374666491711499 , 0.4015849492264826
+0.3 , dataset_6j_2017_l2/1to20_S2B5/optimized_params_6j_1to20_S2B5.json , unsaved , 0.7339241196186075 , 0.8366064529297701 , 0.4035952362535535
+0.4 , dataset_6j_2017_l2/1to20_S2B5/optimized_params_6j_1to20_S2B5.json , unsaved , 0.7341342357333048 , 0.8365043957485894 , 0.4029090777633715
+0.5 , dataset_6j_2017_l2/1to20_S2B5/optimized_params_6j_1to20_S2B5.json , dataset_6j_2017_l2/1to20_S2B5/final_model_6j_1to20_S2B5.h5 , 0.740522312091918 , 0.8356441995072096 , 0.4010523575492912
+0.6 , dataset_6j_2017_l2/1to20_S2B5/optimized_params_6j_1to20_S2B5.json , unsaved , 0.7317134666451058 , 0.836912624473312 , 0.4034137360795188
+0.7 , dataset_6j_2017_l2/1to20_S2B5/optimized_params_6j_1to20_S2B5.json , unsaved , 0.7329485449797731 , 0.8356150403125866 , 0.4028640541795406
+0.8 , dataset_6j_2017_l2/1to20_S2B5/optimized_params_6j_1to20_S2B5.json , unsaved , 0.7352379641344275 , 0.8366793509171967 , 0.40295997777933296
+0.9 , dataset_6j_2017_l2/1to20_S2B5/optimized_params_6j_1to20_S2B5.json , unsaved , 0.7371565110876221 , 0.837218796016854 , 0.4015496530585012

@@ -1,0 +1,10 @@
+TTTT DNN Hyper Parameter Optimization Parameters 
+Static and Parameter Space stored in: dataset_4j_2017/1to3/config_4j_1to3.json
+Optimized Parameters:
+    Hidden Layers: 1
+    Initial Nodes: 6
+    Batch Power: 11
+    Learning Rate: 0.01
+    Node Pattern: static
+    Regulator: none
+    Activation Function: softplus

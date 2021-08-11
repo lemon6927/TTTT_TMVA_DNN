@@ -1,0 +1,9 @@
+{
+  "hidden_layers": 1, 
+  "initial_nodes": 74, 
+  "activation_function": "softplus", 
+  "learning_rate": 0.001, 
+  "regulator": "dropout", 
+  "batch_power": 10, 
+  "node_pattern": "dynamic"
+}

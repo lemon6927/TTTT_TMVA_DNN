@@ -1,0 +1,10 @@
+TTTT DNN Hyper Parameter Optimization Parameters 
+Static and Parameter Space stored in: dataset_6j_2017_l2/1to20_S2B45/config_6j_1to20_S2B45.json
+Optimized Parameters:
+    Hidden Layers: 2
+    Initial Nodes: 145
+    Batch Power: 8
+    Learning Rate: 1e-05
+    Node Pattern: dynamic
+    Regulator: none
+    Activation Function: softplus

@@ -1,0 +1,13 @@
+Final Training Summary: 09.Aug.2021
+
+Index , Parameters , Model , AUC , Accuracy , Loss 
+0.0 , dataset_4j_2017/1to6/optimized_params_4j_1to6.json , unsaved , 0.7666839208749734 , 0.8835274217046533 , 0.3104690893197699
+0.1 , dataset_4j_2017/1to6/optimized_params_4j_1to6.json , unsaved , 0.7657865322022223 , 0.88375230999384 , 0.3110509923013751
+0.2 , dataset_4j_2017/1to6/optimized_params_4j_1to6.json , unsaved , 0.7639115557323147 , 0.8836545324768023 , 0.3119034320553871
+0.3 , dataset_4j_2017/1to6/optimized_params_4j_1to6.json , unsaved , 0.7643618301272332 , 0.8835567549597646 , 0.31156292869943875
+0.4 , dataset_4j_2017/1to6/optimized_params_4j_1to6.json , unsaved , 0.766762539476113 , 0.8836740879802099 , 0.3107027614017185
+0.5 , dataset_4j_2017/1to6/optimized_params_4j_1to6.json , unsaved , 0.7652469352389826 , 0.8836936434836173 , 0.31096815061393734
+0.6 , dataset_4j_2017/1to6/optimized_params_4j_1to6.json , dataset_4j_2017/1to6/final_model_4j_1to6.h5 , 0.7690058587288133 , 0.8838696430142853 , 0.3096524785565242
+0.7 , dataset_4j_2017/1to6/optimized_params_4j_1to6.json , unsaved , 0.7653945582497514 , 0.8835763104631721 , 0.31157383257762766
+0.8 , dataset_4j_2017/1to6/optimized_params_4j_1to6.json , unsaved , 0.7682983034013581 , 0.8838500875108778 , 0.3099341561195268
+0.9 , dataset_4j_2017/1to6/optimized_params_4j_1to6.json , unsaved , 0.7657217000765925 , 0.8841336423102871 , 0.3107421845449738

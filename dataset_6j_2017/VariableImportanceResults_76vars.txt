@@ -1,0 +1,88 @@
+Year:2017
+Weight: triggerXSF * pileupWeight * lepIdSF * EGammaGsfSF * isoSF * L1NonPrefiringProb_CommonCalc * (MCWeight_MultiLepCalc / abs(MCWeight_MultiLepCalc) ) * xsecEff * tthfWeight * njetsWeight * btagCSVWeight * btagCSVRenormWeight
+NJETS:6
+NBJETS:2
+Folders: 
+ - /uscms_data/d3/dsunyou/CMSSW_9_4_6_patch1/src/TTTT_TMVA_DNN/condor_log_02182021/condor_log_6j_2017/condor_log_21.Jun.2021.jtd
+Number of Variables: 76
+Date: 2021-06-25
+
+Importance Calculation:
+Normalization: 74.4103209644
+Index  / Variable Name                      / Freq.  / Sum      / Mean    / RMS     / Significance
+1.     / MT_lepMet                          / 473    / 4.4792   / 0.0095  / 0.0030  / 3.207      
+2.     / thirdcsvb_bb                       / 219    / 8.3628   / 0.0382  / 0.0122  / 3.141      
+3.     / NJetsCSV_MultiLepCalc              / 234    / 6.1775   / 0.0264  / 0.0098  / 2.706      
+4.     / fourthcsvb_bb                      / 270    / 9.3178   / 0.0345  / 0.0132  / 2.623      
+5.     / mass_lepBJet_mindr                 / 194    / 0.7919   / 0.0041  / 0.0018  / 2.245      
+6.     / corr_met_MultiLepCalc              / 515    / 2.4978   / 0.0049  / 0.0027  / 1.765      
+7.     / hemiout                            / 71     / 0.8552   / 0.0120  / 0.0069  / 1.738      
+8.     / deltaR_lepbJetInMinMlb             / 164    / 0.3917   / 0.0024  / 0.0016  / 1.534      
+9.     / NJets_JetSubCalc                   / 323    / 6.8038   / 0.0211  / 0.0140  / 1.506      
+10.    / HT_2m                              / 67     / 0.8522   / 0.0127  / 0.0085  / 1.502      
+11.    / minDR_lepBJet                      / 179    / 0.4095   / 0.0023  / 0.0015  / 1.489      
+12.    / BDTtrijet2                         / 516    / 5.1862   / 0.0101  / 0.0070  / 1.432      
+13.    / AK4HTpMETpLepPt                    / 77     / 1.1261   / 0.0146  / 0.0103  / 1.425      
+14.    / deltaR_lepBJet_maxpt               / 185    / 0.3499   / 0.0019  / 0.0014  / 1.375      
+15.    / ratio_HTdHT4leadjets               / 332    / 4.9086   / 0.0148  / 0.0117  / 1.268      
+16.    / fifthJetPt                         / 62     / 0.5238   / 0.0084  / 0.0073  / 1.165      
+17.    / sixthJetPt                         / 92     / 0.8164   / 0.0089  / 0.0076  / 1.160      
+18.    / secondJetPt                        / 67     / 0.4307   / 0.0064  / 0.0055  / 1.160      
+19.    / AK4HT                              / 80     / 0.9797   / 0.0122  / 0.0107  / 1.143      
+20.    / PtFifthJet                         / 78     / 0.8959   / 0.0115  / 0.0101  / 1.132      
+21.    / theJetLeadPt                       / 78     / 0.5412   / 0.0069  / 0.0061  / 1.132      
+22.    / M_allJet_W                         / 76     / 0.7266   / 0.0096  / 0.0085  / 1.124      
+23.    / BDTtrijet3                         / 515    / 2.6696   / 0.0052  / 0.0050  / 1.030      
+24.    / NJetsTtagged                       / 526    / 1.4414   / 0.0027  / 0.0027  / 1.025      
+25.    / mass_maxJJJpt                      / 81     / 0.1374   / 0.0017  / 0.0018  / 0.953      
+26.    / BDTtrijet1                         / 518    / 0.8540   / 0.0016  / 0.0018  / 0.929      
+27.    / HT_bjets                           / 222    / 1.4553   / 0.0066  / 0.0075  / 0.876      
+28.    / centrality                         / 501    / 0.7836   / 0.0016  / 0.0019  / 0.823      
+29.    / mass_lepBJet0                      / 511    / 0.8687   / 0.0017  / 0.0021  / 0.804      
+30.    / BJetLeadPt                         / 252    / 0.4018   / 0.0016  / 0.0021  / 0.770      
+31.    / mass_maxBBmass                     / 250    / 0.4837   / 0.0019  / 0.0026  / 0.750      
+32.    / secondcsvb_bb                      / 256    / 0.3299   / 0.0013  / 0.0017  / 0.748      
+33.    / mass_minLLdr                       / 509    / 0.5002   / 0.0010  / 0.0015  / 0.676      
+34.    / Aplanarity                         / 337    / 0.4693   / 0.0014  / 0.0021  / 0.662      
+35.    / HOTGoodTrijet1_dRtrijetJetnotdijet / 76     / 0.0604   / 0.0008  / 0.0012  / 0.643      
+36.    / leptonPt_MultiLepCalc              / 349    / 0.3055   / 0.0009  / 0.0014  / 0.620      
+37.    / mass_lepJets0                      / 307    / 0.2594   / 0.0008  / 0.0015  / 0.568      
+38.    / MT2bb                              / 488    / 0.3538   / 0.0007  / 0.0013  / 0.558      
+39.    / mass_minBBdr                       / 519    / 0.3825   / 0.0007  / 0.0014  / 0.520      
+40.    / Sphericity                         / 330    / 0.2668   / 0.0008  / 0.0016  / 0.518      
+41.    / FW_momentum_1                      / 518    / 0.3392   / 0.0007  / 0.0014  / 0.479      
+42.    / FW_momentum_5                      / 525    / 0.5324   / 0.0010  / 0.0021  / 0.476      
+43.    / HOTGoodTrijet1_pTratio             / 72     / 0.0381   / 0.0005  / 0.0011  / 0.473      
+44.    / FW_momentum_4                      / 495    / 0.4488   / 0.0009  / 0.0020  / 0.448      
+45.    / FW_momentum_6                      / 481    / 0.5356   / 0.0011  / 0.0025  / 0.443      
+46.    / NJetsWtagged                       / 511    / 0.2795   / 0.0005  / 0.0012  / 0.443      
+47.    / FW_momentum_3                      / 468    / 0.4532   / 0.0010  / 0.0023  / 0.429      
+48.    / aveBBdr                            / 535    / 0.3030   / 0.0006  / 0.0013  / 0.422      
+49.    / HOTGoodTrijet1_mass                / 85     / 0.0426   / 0.0005  / 0.0012  / 0.404      
+50.    / mass_lepJets1                      / 505    / 0.2649   / 0.0005  / 0.0013  / 0.403      
+51.    / HOTGoodTrijet2_pTratio             / 66     / 0.0420   / 0.0006  / 0.0017  / 0.381      
+52.    / lepDR_minBBdr                      / 487    / 0.2086   / 0.0004  / 0.0012  / 0.369      
+53.    / HOTGoodTrijet2_dRtridijet          / 75     / 0.0348   / 0.0005  / 0.0013  / 0.364      
+54.    / HOTGoodTrijet2_csvJetnotdijet      / 519    / 0.2574   / 0.0005  / 0.0015  / 0.338      
+55.    / mass_lepJets2                      / 476    / 0.2002   / 0.0004  / 0.0013  / 0.328      
+56.    / NresolvedTops1pFake                / 85     / 0.0375   / 0.0004  / 0.0014  / 0.305      
+57.    / FW_momentum_2                      / 515    / 0.2553   / 0.0005  / 0.0017  / 0.284      
+58.    / csvJet4                            / 489    / 0.1622   / 0.0003  / 0.0013  / 0.261      
+59.    / HOTGoodTrijet2_mass                / 71     / 0.0273   / 0.0004  / 0.0016  / 0.244      
+60.    / deltaR_minBB                       / 531    / 0.1634   / 0.0003  / 0.0013  / 0.235      
+61.    / HOTGoodTrijet1_dijetmass           / 81     / 0.0244   / 0.0003  / 0.0013  / 0.235      
+62.    / csvJet3                            / 511    / 0.1421   / 0.0003  / 0.0012  / 0.234      
+63.    / HOTGoodTrijet2_dRtrijetJetnotdijet / 85     / 0.0326   / 0.0004  / 0.0017  / 0.222      
+64.    / aveCSVpt                           / 234    / 0.0605   / 0.0003  / 0.0012  / 0.211      
+65.    / HOTGoodTrijet2_dijetmass           / 81     / 0.0260   / 0.0003  / 0.0016  / 0.198      
+66.    / minDR_lepJet                       / 327    / 0.0772   / 0.0002  / 0.0013  / 0.189      
+67.    / HOTGoodTrijet1_dRtridijet          / 65     / 0.0135   / 0.0002  / 0.0011  / 0.183      
+68.    / deltaR_lepJetInMinMljet            / 354    / 0.0561   / 0.0002  / 0.0010  / 0.161      
+69.    / HOTGoodTrijet1_csvJetnotdijet      / 496    / 0.0801   / 0.0002  / 0.0012  / 0.133      
+70.    / BDTtrijet4                         / 472    / 0.0570   / 0.0001  / 0.0012  / 0.105      
+71.    / FW_momentum_0                      / 516    / 0.0618   / 0.0001  / 0.0012  / 0.101      
+72.    / deltaPhi_lepbJetInMinMlb           / 503    / 0.0453   / 0.0001  / 0.0011  / 0.079      
+73.    / firstcsvb_bb                       / 234    / 0.0081   / 0.0000  / 0.0011  / 0.032      
+74.    / deltaPhi_lepJetInMinMljet          / 532    / -0.0327  / -0.0001 / 0.0011  / -0.057     
+75.    / deltaEta_maxBB                     / 533    / -0.1253  / -0.0002 / 0.0011  / -0.217     
+76.    / minMleppBjet                       / 510    / -0.1901  / -0.0004 / 0.0011  / -0.327     
